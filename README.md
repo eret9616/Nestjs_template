@@ -1,4 +1,4 @@
-## hierarchy
+## directory
 
 ```
      |-- src ---- common      
